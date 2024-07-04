@@ -1,5 +1,5 @@
 # Design Systems
-A list of famous design systems, design languages and guidelines
+一些比较合我胃口的设计系统
 
 |  | Name | Link |
 | - | - | - |
