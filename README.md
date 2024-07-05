@@ -1,7 +1,7 @@
 # Design Systems
 一些比较合我胃口的设计系统（持续更新中...）
 
-| 序号 | 名称 | 链接 |
+|  | 名称 | 链接 |
 | - | - | - |
 | 1 | UX Design by Google | https://m3.material.io/ |
 | 2 | UX Design by Tencent | https://isux.tencent.com/ |
