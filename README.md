@@ -17,6 +17,6 @@
 | 12 | DevUI Design System by Huawecloud | https://devui.design/ |
 | 13 | Samsung Music Frame Design Story | https://design.samsung.com/ |
 | 14 | Fluent Design System by Microsoft | https://fluent2.microsoft.design/ |
-| 15 | Base design system | https://base.uber.com/ |
+| 15 | Base Design Dystem | https://base.uber.com/ |
 | 16 | Google Font | https://fonts.google.com/ |
 
