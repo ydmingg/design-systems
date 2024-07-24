@@ -5,18 +5,23 @@
 | - | - | - |
 | 01 | UX Design by Google | https://m3.material.io/ |
 | 02 | UX Design by Tencent | https://isux.tencent.com/ |
-| 03 | Apple Human Interface Guidelines | https://developer.apple.com/design/human-interface-guidelines/ |
-| 04 | Material Design by Google | https://m3.material.io/ |
-| 05 | Spectrum by Adobe | https://spectrum.adobe.com/ |
-| 06 | Cedar Design System | https://cedar.rei.com/ |
-| 07 | Workday Canvas Design System | https://canvas.workday.com/ |
-| 08 | Pulse by Heartbeat Agency | https://pulse.heartbeat.ua/ |
-| 09 | Pajamas Design System by GitLab | https://design.gitlab.com/ |
-| 10 | Vibe Design System by Monday | https://style.monday.com/ |
-| 11 | Orbit Design System by Kiwi | https://orbit.kiwi/ |
-| 12 | DevUI Design System by Huawecloud | https://devui.design/ |
-| 13 | Samsung Music Frame Design Story | https://design.samsung.com/ |
-| 14 | Fluent Design System by Microsoft | https://fluent2.microsoft.design/ |
-| 15 | Base Design Dystem | https://base.uber.com/ |
-| 16 | Google Font | https://fonts.google.com/ |
-| 17 | Muzri Personal Website | https://muzri.framer.wiki/ |
+| 03 | Base Design System | https://base.uber.com/ |
+| 04 | Vibe Design System | https://style.monday.com/ |
+| 05 | Cedar Design System | https://cedar.rei.com/ |
+| 06 | Geist Design System | https://vercel.com/geist/introduction |
+| 07 | Orbit Design System | https://orbit.kiwi/ |
+| 08 | DevUI Design System | https://devui.design/ |
+| 09 | Shadcn Design System | https://ui.shadcn.com/ |
+| 10 | Fluent Design System | https://fluent2.microsoft.design/ |
+| 11 | Helios Design System | https://helios.hashicorp.design/ |
+| 12 | Source Design System | https://www.newskit.co.uk/ |
+| 13 | Workday Design System | https://canvas.workday.com/ |
+| 14 | Pajamas Design System | https://design.gitlab.com/ |
+| 15 | Apple Human Interface Guidelines | https://developer.apple.com/design/human-interface-guidelines/ |
+| 16 | Material Design by Google | https://m3.material.io/ |
+| 17 | Spectrum by Adobe | https://spectrum.adobe.com/ |
+| 18 | Pulse by Heartbeat Agency | https://pulse.heartbeat.ua/ |
+| 19 | Samsung Music Frame Design Story | https://design.samsung.com/ |
+| 20 | Wise Design | https://wise.design/ |
+| 21 | Muzri Personal Website | https://muzri.framer.wiki/ |
+| 22 | Google Font | https://fonts.google.com/ |
