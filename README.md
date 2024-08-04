@@ -1,5 +1,5 @@
 # Design Systems
-Some open-source design systems, components, and websites that might suit your taste (an ongoing list...)
+Some open-source design systems, components, and websites that might suit your taste (a continuously updated list...).
 
 |  | 名称 | 链接 |
 | - | - | - |
