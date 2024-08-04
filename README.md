@@ -1,5 +1,5 @@
 # Design Systems
-一些比较合我胃口的开源设计系统、组件、网站等（持续更新中...）
+Some open-source design systems, components, and websites that might suit your taste (an ongoing list...)
 
 |  | 名称 | 链接 |
 | - | - | - |
