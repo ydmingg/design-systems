@@ -25,3 +25,9 @@ Some open-source design systems, components, and websites that might suit your t
 | 20 | Wise Design | https://wise.design/ |
 | 21 | Muzri Personal Website | https://muzri.framer.wiki/ |
 | 22 | Google Font | https://fonts.google.com/ |
+| 23 | Magicui | https://magicui.design/ |
+| 24 | Cult-ui | https://www.cult-ui.com/ |
+| 25 | Framer Motion | https://www.framer.com/motion/ |
+
+
+
