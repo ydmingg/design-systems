@@ -27,8 +27,9 @@ Some open-source design systems, components, and websites that might suit your t
 | 22 | Google Font | https://fonts.google.com/ |
 | 23 | Magic UI Components | https://magicui.design/ |
 | 24 | Cult UI Components | https://www.cult-ui.com/ |
-| 25 | Framer Motion Animation | https://www.framer.com/motion/ |
-| 26 | Aceternity UI Components | https://ui.aceternity.com/ |
+| 25 | Aceternity UI Components | https://ui.aceternity.com/ |
+| 26 | Framer Motion Animation | https://www.framer.com/motion/ |
+
 
 
 
