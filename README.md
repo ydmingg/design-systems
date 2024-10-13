@@ -29,8 +29,6 @@ Some open-source design systems, components, and websites that might suit your t
 | 24 | Cult UI Components | https://www.cult-ui.com/ |
 | 25 | Aceternity UI Components | https://ui.aceternity.com/ |
 | 26 | Framer Motion Animation | https://www.framer.com/motion/ |
-
-
-
-
-
+| 27 | Pinterest  | https://www.pinterest.com/ |
+| 28 | Dribbble | https://dribbble.com/following |
+| 29 | Behance | https://www.behance.net/ |
