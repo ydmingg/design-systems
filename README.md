@@ -32,3 +32,9 @@ Some open-source design systems, components, and websites that might suit your t
 | 27 | Pinterest  | https://www.pinterest.com/ |
 | 28 | Dribbble | https://dribbble.com/following |
 | 29 | Behance | https://www.behance.net/ |
+| 30 | Web Design | https://www.seesaw.website/ |
+| 31 | Mobile Design | https://mobbin.com/browse/ios/apps |
+| 32 | Design Systems | https://component.gallery/design-systems |
+| 33 | Brands Design | https://www.rebrand.gallery/ |
+| 34 | Icons Design | https://hugeicons.com/ |
+| 35 | Font Design | https://www.freefaces.gallery/ |
