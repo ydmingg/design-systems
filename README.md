@@ -1,7 +1,7 @@
 # Design Systems
 Some open-source design systems, components, and websites that might suit your taste (a continuously updated list...).
 
-|  | 名称 | 链接 |
+|  | Name | Link |
 | - | - | - |
 | 01 | UX Design by Google | https://m3.material.io/ |
 | 02 | UX Design by Tencent | https://isux.tencent.com/ |
