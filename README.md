@@ -25,19 +25,19 @@ Some open-source design systems, components, and websites that might suit your t
 | 20 | Wise Design | https://wise.design/ |
 | 21 | Muzri Personal Website | https://muzri.framer.wiki/ |
 | 22 | Google Font | https://fonts.google.com/ |
-| 23 | Magic UI Components | https://magicui.design/ |
-| 24 | Cult UI Components | https://www.cult-ui.com/ |
-| 25 | Aceternity UI Components | https://ui.aceternity.com/ |
-| 26 | Framer Motion Animation | https://www.framer.com/motion/ |
-| 27 | Pinterest  | https://www.pinterest.com/ |
-| 28 | Dribbble | https://dribbble.com/following |
-| 29 | Behance | https://www.behance.net/ |
-| 30 | Web Design | https://www.seesaw.website/ |
-| 31 | Mobile Design | https://mobbin.com/browse/ios/apps |
-| 32 | Design Systems | https://component.gallery/design-systems |
-| 33 | Brands Design | https://www.rebrand.gallery/ |
-| 34 | Icons Design | https://hugeicons.com/ |
-| 35 | Font Design | https://www.freefaces.gallery/ |
+| 23 | Freefaces Font | https://www.freefaces.gallery/ |
+| 24 | Magic UI Components | https://magicui.design/ |
+| 25 | Cult UI Components | https://www.cult-ui.com/ |
+| 26 | Aceternity UI Components | https://ui.aceternity.com/ |
+| 27 | Framer Motion Animation | https://www.framer.com/motion/ |
+| 28 | Pinterest  | https://www.pinterest.com/ |
+| 29 | Dribbble | https://dribbble.com/following |
+| 30 | Behance | https://www.behance.net/ |
+| 31 | Web Design | https://www.seesaw.website/ |
+| 32 | Mobile Design | https://mobbin.com/browse/ios/apps |
+| 33 | Design Systems | https://component.gallery/design-systems |
+| 34 | Brands Design | https://www.rebrand.gallery/ |
+| 35 | Icons Design | https://hugeicons.com/ |
 | 36 | Color Systems | https://uicolors.app/create |
 | 37 | Website Design | https://www.dimension.dev/ |
 
