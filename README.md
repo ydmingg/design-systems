@@ -1,6 +1,9 @@
-# Design Systems
+# Project Introduction 
 Some open-source design systems, components, and websites that might suit your taste (a continuously updated list...).
 
+
+## Systems
+Top Design Systems.
 |  | Name | Link |
 | - | - | - |
 | 01 | UX Design by Google | https://m3.material.io/ |
@@ -21,25 +24,79 @@ Some open-source design systems, components, and websites that might suit your t
 | 16 | Material Design by Google | https://m3.material.io/ |
 | 17 | Spectrum by Adobe | https://spectrum.adobe.com/ |
 | 18 | Pulse by Heartbeat Agency | https://pulse.heartbeat.ua/ |
-| 19 | Samsung Music Frame Design Story | https://design.samsung.com/ |
-| 20 | Wise Design | https://wise.design/ |
-| 21 | Muzri Personal Website | https://muzri.framer.wiki/ |
-| 22 | Google Font | https://fonts.google.com/ |
-| 23 | Freefaces Font | https://www.freefaces.gallery/ |
-| 24 | Magic UI Components | https://magicui.design/ |
-| 25 | Cult UI Components | https://www.cult-ui.com/ |
-| 26 | Aceternity UI Components | https://ui.aceternity.com/ |
-| 27 | Framer Motion Animation | https://www.framer.com/motion/ |
-| 28 | Pinterest  | https://www.pinterest.com/ |
-| 29 | Dribbble | https://dribbble.com/following |
-| 30 | Behance | https://www.behance.net/ |
-| 31 | Web Design | https://www.seesaw.website/ |
-| 32 | Mobile Design | https://mobbin.com/browse/ios/apps |
-| 33 | Design Systems | https://component.gallery/design-systems |
-| 34 | Brands Design | https://www.rebrand.gallery/ |
-| 35 | Icons Design | https://hugeicons.com/ |
-| 36 | Color Systems | https://uicolors.app/create |
-| 37 | Website Design | https://www.dimension.dev/ |
 
 
+## Font
+Top Font Libraries.
+|  | Name | Link |
+| - | - | - |
+| 01 | Google Font | https://fonts.google.com/ |
+| 02 | Freefaces Font | https://www.freefaces.gallery/ |
 
+
+## Components
+Top Animated Component Libraries.
+|  | Name | Link |
+| - | - | - |
+| 01 | Magic UI Components | https://magicui.design/ |
+| 02 | Cult UI Components | https://www.cult-ui.com/ |
+| 03 | Aceternity UI Components | https://ui.aceternity.com/ |
+| 04 | Animata UI Components | https://animata.design/ |
+| 05 | Layout UI Components | https://www.ui-layouts.com/ |
+| 06 | Eldoraui UI Components | https://www.eldoraui.site/ |
+| 07 | AnimationSvelte UI Components | https://animation-svelte.vercel.app/ |
+| 08 | Inspira UI Components | https://inspira-ui.com/ |
+| 09 | Inspira UI Components | https://lunarui.dev/ |
+
+
+## Website
+Top Website.
+|  | Name | Link |
+| - | - | - |
+| 01 | Samsung Music Frame Design Story | https://design.samsung.com/ |
+| 02 | Wise Design | https://wise.design/ |
+| 03 | Website Design | https://www.dimension.dev/ |
+
+
+## Animated
+Top Animated Libraries.
+|  | Name | Link |
+| - | - | - |
+| 01 | Framer Motion Animation | https://www.framer.com/motion/ |
+
+
+## Material
+Top Material Website.
+|  | Name | Link |
+| - | - | - |
+| 01 | Pinterest  | https://www.pinterest.com/ |
+| 02 | Dribbble | https://dribbble.com/following |
+| 03 | Behance | https://www.behance.net/ |
+| 04 | Seesaw | https://www.seesaw.website/ |
+| 05 | Mobile | https://mobbin.com/browse/ios/apps |
+
+
+## Icons
+Top Icon Libraries.
+|  | Name | Link |
+| - | - | - |
+| 01 | Tabler  | https://tabler.io/icons |
+
+
+## Tools
+Top Tool Website.
+|  | Name | Link |
+| - | - | - |
+| 01 | UIcolors Tools | https://uicolors.app/create |
+| 02 | Iframegenerator Tools | https://iframegenerator.top/ |
+| 03 | Lingdaima Tools | https://lingdaima.com/jianbianse/ |
+| 04 | Color4bg Tools | https://www.color4bg.com/zh-hans/ |
+| 05 | RemoveBackground Tools | https://pixlr.com/tw/remove-background/ |
+| 06 | Squoosh Tools | https://squoosh.app/ |
+
+
+## Other
+Top Other Libraries.
+|  | Name | Link |
+| - | - | - |
+| 01 | Muzri Personal Website | https://muzri.framer.wiki/ |
