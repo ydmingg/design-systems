@@ -24,7 +24,7 @@ Top Design Systems.
 | 16 | Material Design by Google | https://m3.material.io/ |
 | 17 | Spectrum by Adobe | https://spectrum.adobe.com/ |
 | 18 | Pulse by Heartbeat Agency | https://pulse.heartbeat.ua/ |
-| 18 | Uidesign Tips | https://www.uidesign.tips/ui-tips |
+| 19 | Uidesign Tips | https://www.uidesign.tips/ui-tips |
 
 
 
