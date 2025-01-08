@@ -49,6 +49,8 @@ Top Animated Component Libraries.
 | 07 | AnimationSvelte UI Components | https://animation-svelte.vercel.app/ |
 | 08 | Inspira UI Components | https://inspira-ui.com/ |
 | 09 | Inspira UI Components | https://lunarui.dev/ |
+| 10 | prismui UI Components | https://www.prismui.tech/ |
+
 
 
 ## Website
