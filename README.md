@@ -55,6 +55,7 @@ Top Animated Component Libraries.
 
 
 
+
 ## Website
 Top Website.
 |  | Name | Link |
@@ -88,6 +89,7 @@ Top Inspiration Material Website.
 | 04 | Seesaw | https://www.seesaw.website/ |
 | 05 | Mobile | https://mobbin.com/browse/ios/apps |
 | 06 | Ogimage | https://www.ogimage.gallery/ |
+| 07 | Curatorx | https://www.curatorx.io/inspiration |
 
 
 ## Icons
